@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pre-header{
+    background-color: black;
+    height: 150px;
+    color: #fff;
+    padding-top: 75px;
+}
+
+.secondary-menu {
+    background-color: #fff;
+    list-style: none;
+}
+
+.main-nav {
+    background-color: chartreuse;
+    color: #fff;
+}
+
+.main-nav .main-menu li {
+    color: black;
+    background-color: chartreuse;
+    display: inline-block;
+    list-style: none;
+} 
+
+.ul-header {
+    background-color: lightblue;
+} 
+
